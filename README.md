@@ -2,7 +2,7 @@
 
 ### **Introduction**
 
-Ce projet s'inscrit dans le cadre de ma candidature à la formation Data Analyst proposée par OpenClassrooms, et financée par France Travail, dans le contexte de mon projet de reconversion professionnelle, accompagné et validé par un conseiller France Travail.
+Ce projet s'inscrit dans le cadre de ma candidature à la formation Data Analyst, dans le contexte de mon projet de reconversion professionnelle, accompagné et validé par un conseiller France Travail.
 
 Le dataset utilisé contient le registre des transactions d'une entreprise fictive dans le secteur de la vente au détail.
 
